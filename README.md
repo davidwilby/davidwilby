@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**davidwilby/davidwilby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Research Software Engineer [@RSE-Sheffield](https://github.com/RSE-Sheffield)
+- Reproducibility, open research
+- Python, MATLAB etc.
+- Enhancing research practice through training and collaboration
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### On the internet
+- :computer: [RSE @ Sheffield](https://rse.shef.ac.uk)
+- :busts_in_silhouette: [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
+- :open_book: [Google Scholar](http://bit.ly/wilbyScholar)
+- :bird: [Twitter](https://twitter.com/drdavidwilby)
+- :mammoth: <a rel="me" href="https://fosstodon.org/@davidwilby">Mastodon</a>
