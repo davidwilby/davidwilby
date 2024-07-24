@@ -8,5 +8,4 @@
 #### On the internet
 - :busts_in_silhouette: [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
 - :open_book: [Google Scholar](http://bit.ly/wilbyScholar)
-- :bird: [Twitter](https://twitter.com/drdavidwilby)
 - :mammoth: <a rel="me" href="https://fosstodon.org/@davidwilby">Mastodon</a>
